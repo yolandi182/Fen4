@@ -1,0 +1,65 @@
+/* Цвет фона 1-ой секции*/
+
+body {
+    background-color: black;
+}
+
+
+/* Титульная надпись */
+
+.Head-line {
+    color: #feffde;
+    margin: 5rem 0 3rem 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+}
+
+
+/* Специальность */
+
+h2 {
+    color: #eeb76b;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 2rem;
+    margin-bottom: 2.5rem;
+}
+
+
+/* "Находится в разработке"*/
+
+h3 {
+    color: #eeb76b;
+    margin: 2rem auto 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+
+/* Стиль и поведение значка телеги */
+
+.fa-telegram-plane {
+    color: #e84545;
+    font-size: 1.5rem;
+}
+
+.fa-telegram-plane:hover {
+    color: gold;
+}
+
+
+/* Стиль и поведение значка инстаграма */
+
+.fa-instagram {
+    color: #e84545;
+    font-size: 1.5rem;
+}
+
+.fa-instagram:hover {
+    color: gold;
+}
+
+.social {
+    margin-bottom: 2rem;
+}
